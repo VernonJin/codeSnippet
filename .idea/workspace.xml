@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6be7d890-9c78-4f04-a1db-661a2d65b10d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/commonFun/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonFun/dateTime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonFun/eventAndAnimation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonFun/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonFun/other.js" afterDir="false" />
-    </list>
+    <list default="true" id="6be7d890-9c78-4f04-a1db-661a2d65b10d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -149,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548232627103</updated>
-      <workItem from="1548232629010" duration="964000" />
+      <workItem from="1548232629010" duration="1472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="964000" />
+    <option name="totallyTimeSpent" value="1472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1633" height="947" extended-state="0" />
